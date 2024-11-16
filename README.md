@@ -3,6 +3,7 @@
 Welcome to the repository of the 5-Day Gen AI Intensive Course with Google.  This repository contains links to all the daily whitepapers, podcasts, assignments, and other materials for the course.
 
 This is a 5-day online course designed and presented by Google and Kaggle, to help you deeply understand some of the fundamental technologies and techniques behind Generative AI.  Created by a team of Google’s ML researchers and engineers, this program includes both conceptual deep dives and hands-on coding examples so you can tackle new Gen AI projects with confidence.
+
 📘Read [An Overview of the Course](https://rsvp.withgoogle.com/events/google-generative-ai-intensive/home)
 
 ## Initial Setup Instructions
